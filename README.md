@@ -13,8 +13,8 @@ Currently pursuing a Bachelor of Applied Science in Cybersecurity at George Maso
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|Penetration Testing & Vulnerability Scanning        | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+|Penetration Testing & Vulnerability Scanning        | <a href=https://github.com/nguyentony-cyber/Penetration-Testing-Lab>Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href=>Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -45,5 +45,5 @@ Currently pursuing a Bachelor of Applied Science in Cybersecurity at George Maso
 
 ## Projects
 
-- In-House Penetration Testing Lab
+- <a href=https://github.com/nguyentony-cyber/Penetration-Testing-Lab>Detection Lab</a>
 - Firewall and VPN Implementation Lab
