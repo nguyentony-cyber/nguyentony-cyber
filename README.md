@@ -45,5 +45,5 @@ Currently pursuing a Bachelor of Applied Science in Cybersecurity at George Maso
 
 ## Projects
 
-- [In-House Penetration Testing Lab](https://github.com/tonynguyen/in-house-penetration-testing-lab)  
-- [Firewall and VPN Implementation Lab](https://github.com/tonynguyen/firewall-vpn-implementation-lab)  
+- [In-House Penetration Testing Lab] 
+- [Firewall and VPN Implementation Lab]
