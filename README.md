@@ -46,3 +46,4 @@ Currently pursuing a Bachelor of Applied Science in Cybersecurity at George Maso
 
 - <a href=https://github.com/nguyentony-cyber/Penetration-Testing-Lab>PenTest & Vulnerability Analysis</a>
 -  <a href=https://github.com/nguyentony-cyber/Firewall-and-VPN-Implementation-Lab>Firewall-and-VPN-Implementation</a>
+-  <a href="https://github.com/nguyentony-cyber/aws-s3-security-project">AWS S3 Security Lab</a>
